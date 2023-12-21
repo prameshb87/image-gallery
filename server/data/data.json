@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "himalayas",
+    "url": "/images/Himalayas.jpg",
+    "caption": "The great Himalayas",
+    "likedCount": 3,
+    "dislikedCount": 0
+  },
+  {
+    "id": 2,
+    "name": "bbc",
+    "url": "/images/mountains-bbc.jpg",
+    "caption": "Above the clouds",
+    "likedCount": 1,
+    "dislikedCount": 1
+  },
+  {
+    "id": 3,
+    "name": "olympic",
+    "url": "/images/olympic.jpg",
+    "caption": "Olympic range",
+    "likedCount": 0,
+    "dislikedCount": 1
+  },
+  {
+    "id": 4,
+    "name": "rainier",
+    "url": "/images/reflection-lake-rainier.jpg",
+    "caption": "Mt. Rainier from reflections lake",
+    "likedCount": 3,
+    "dislikedCount": 1
+  },
+  {
+    "id": 5,
+    "name": "random",
+    "url": "/images/random.jpg",
+    "caption": "Majestic mountains",
+    "likedCount": 0,
+    "dislikedCount": 0
+  }
+]
